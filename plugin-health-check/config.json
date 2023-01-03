@@ -1,0 +1,13 @@
+{
+	"name": "Health check",
+	"autor": "JaLe",
+	"description": "It will create health check GET endpoint",
+	"versions": [
+	{
+		"version": "0.0.1",
+		"changelog": "First version",
+		"url": "https://github.com/JaLe29/apengine-plugins/blob/main/plugin-health-check/plugin.zip?raw=true",
+		"created": "08:00 03.01.2022"
+	}
+	]
+}

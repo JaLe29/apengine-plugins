@@ -1,0 +1,13 @@
+{
+	"name": "Version info",
+	"autor": "JaLe",
+	"description": "It will create version info GET endpoint",
+	"versions": [
+		{
+			"version": "0.0.1",
+			"changelog": "First version",
+			"url": "https://github.com/JaLe29/apengine-plugins/blob/main/plugin-version-info/plugin.zip?raw=true",
+			"created": "08:00 21.01.2023"
+		}
+	]
+}
